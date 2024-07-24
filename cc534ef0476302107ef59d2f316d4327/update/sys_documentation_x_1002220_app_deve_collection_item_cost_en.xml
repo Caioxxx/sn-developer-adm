@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cost" label="Cost" language="en" table="x_1002220_app_deve_collection_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <help/>
+            <hint/>
+            <label>Cost</label>
+            <language>en</language>
+            <name>x_1002220_app_deve_collection_item</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 22:13:04</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Cost</sys_name>
+            <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+            <sys_update_name>sys_documentation_x_1002220_app_deve_collection_item_cost_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 22:13:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
