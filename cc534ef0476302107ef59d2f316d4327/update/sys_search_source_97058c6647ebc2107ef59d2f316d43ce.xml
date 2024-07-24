@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1002220_app_deve_collection_item">active=true</condition>
+        <group/>
+        <name>Collection Tracker Workspace - x_1002220_app_deve_</name>
+        <roles/>
+        <source_table>x_1002220_app_deve_collection_item</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 22:54:19</sys_created_on>
+        <sys_id>97058c6647ebc2107ef59d2f316d43ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Collection Tracker Workspace - x_1002220_app_deve_</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>sys_search_source_97058c6647ebc2107ef59d2f316d43ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 22:54:19</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=97058c6647ebc2107ef59d2f316d43ce"/>
+</record_update>

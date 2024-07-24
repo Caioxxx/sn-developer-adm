@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="1015cc6647ebc2107ef59d2f316d43a8" sys_domain="global" table="x_1002220_app_deve_collection_item" version="3" view="workspace-collection-tracker-workspace-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 22:54:23</sys_created_on>
+            <sys_id>1c15cc6647ebc2107ef59d2f316d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1002220_app_deve_collection_item" sys_domain="global" view="c2050c66b0ebc21036590c39be0f1a7e">1015cc6647ebc2107ef59d2f316d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 22:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 22:54:23</sys_created_on>
+            <sys_id>1c15cc6647ebc2107ef59d2f316d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1002220_app_deve_collection_item" sys_domain="global" view="c2050c66b0ebc21036590c39be0f1a7e">1015cc6647ebc2107ef59d2f316d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 22:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>value</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 22:54:23</sys_created_on>
+            <sys_id>9015cc6647ebc2107ef59d2f316d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1002220_app_deve_collection_item" sys_domain="global" view="c2050c66b0ebc21036590c39be0f1a7e">1015cc6647ebc2107ef59d2f316d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 22:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_purchased</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 22:54:23</sys_created_on>
+            <sys_id>1815cc6647ebc2107ef59d2f316d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1002220_app_deve_collection_item" sys_domain="global" view="c2050c66b0ebc21036590c39be0f1a7e">1015cc6647ebc2107ef59d2f316d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 22:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 22:54:23</sys_created_on>
+            <sys_id>9415cc6647ebc2107ef59d2f316d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1002220_app_deve_collection_item" sys_domain="global" view="c2050c66b0ebc21036590c39be0f1a7e">1015cc6647ebc2107ef59d2f316d43a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 22:54:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1002220_app_deve_collection_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 22:54:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1015cc6647ebc2107ef59d2f316d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1002220_app_deve_collection_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+            <sys_update_name>sys_ui_section_1015cc6647ebc2107ef59d2f316d43a8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 22:54:23</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Collection Tracker Workspace 0" name="workspace-collection-tracker-workspace-0">c2050c66b0ebc21036590c39be0f1a7e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
