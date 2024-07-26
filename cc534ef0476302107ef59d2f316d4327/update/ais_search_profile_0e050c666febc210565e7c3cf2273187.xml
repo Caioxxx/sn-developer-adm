@@ -7,19 +7,19 @@
         <label>collection-tracker-workspace Search Profile</label>
         <name>x_1002220_app_deve_diyknaye_search_profile</name>
         <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
-        <qna_model_id/>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
         <state>DRAFT</state>
         <sys_class_name>ais_search_profile</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-24 22:54:14</sys_created_on>
         <sys_id>0e050c666febc210565e7c3cf2273187</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>collection-tracker-workspace Search Profile</sys_name>
         <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
         <sys_policy/>
         <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
         <sys_update_name>ais_search_profile_0e050c666febc210565e7c3cf2273187</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-24 22:54:20</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-25 04:00:00</sys_updated_on>
     </ais_search_profile>
 </record_update>

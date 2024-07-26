@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="35446c47472302107ef59d2f316d4398" sys_domain="global" table="x_1002220_app_deve_to_do" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-26 14:27:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39446c47472302107ef59d2f316d439c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1002220_app_deve_to_do" name="x_1002220_app_deve_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">35446c47472302107ef59d2f316d4398</sys_ui_form>
+            <sys_ui_section caption="To Do" display_value="To Do" name="x_1002220_app_deve_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">2a4d4d76476302107ef59d2f316d43d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-26 14:27:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-26 14:27:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5446c47472302107ef59d2f316d439d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1002220_app_deve_to_do" name="x_1002220_app_deve_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">35446c47472302107ef59d2f316d4398</sys_ui_form>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_1002220_app_deve_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">71446c47472302107ef59d2f316d4395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-26 14:27:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-26 14:27:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd44ac47472302107ef59d2f316d4310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1002220_app_deve_to_do" name="x_1002220_app_deve_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">35446c47472302107ef59d2f316d4398</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_1002220_app_deve_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">79446c47472302107ef59d2f316d4397</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-26 14:27:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1002220_app_deve_to_do</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-26 14:27:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35446c47472302107ef59d2f316d4398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1002220_app_deve_to_do</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+            <sys_update_name>sys_ui_form_sections_35446c47472302107ef59d2f316d4398</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-26 14:27:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
