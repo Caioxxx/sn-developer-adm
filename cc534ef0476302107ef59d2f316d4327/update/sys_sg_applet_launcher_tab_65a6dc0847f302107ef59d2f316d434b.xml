@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="To Do">a9a6dc0847f302107ef59d2f316d433d</applet_launcher>
+        <icon display_value="Today">e1a6dc0847f302107ef59d2f316d433c</icon>
+        <label>To Do</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-29 16:02:06</sys_created_on>
+        <sys_id>65a6dc0847f302107ef59d2f316d434b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_65a6dc0847f302107ef59d2f316d434b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-29 16:02:06</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="To Do Workspace">c9730d4f67a3021026dec2c846dce575</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_1002220_app_deve.admin" name="x_1002220_app_deve.admin">a8f8ff5647abc2107ef59d2f316d43d9</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 16:44:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d2734d4f47a302107ef59d2f316d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c9730d4f67a3021026dec2c846dce575</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>par_dashboard_permission_d2734d4f47a302107ef59d2f316d43bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 16:44:00</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

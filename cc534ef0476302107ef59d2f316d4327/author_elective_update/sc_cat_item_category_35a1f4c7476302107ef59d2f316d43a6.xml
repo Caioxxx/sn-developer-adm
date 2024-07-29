@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request a new To Do Project">e9607c47476302107ef59d2f316d43a6</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 15:26:09</sys_created_on>
+        <sys_id>35a1f4c7476302107ef59d2f316d43a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request a new To Do Project</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>sc_cat_item_category_35a1f4c7476302107ef59d2f316d43a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 15:26:09</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App Developer">cc534ef0476302107ef59d2f316d4327</application>
+        <file_path/>
+        <instance_id>4891f8c11b42b5581024eb9b2d4bcb9a</instance_id>
+        <instance_name>dev191553</instance_name>
+        <name>sc_cat_item_category_35a1f4c7476302107ef59d2f316d43a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new To Do Project">e9607c47476302107ef59d2f316d43a6</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-26 15:26:09</sys_created_on><sys_id>35a1f4c7476302107ef59d2f316d43a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Request a new To Do Project</sys_name><sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package><sys_policy/><sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope><sys_update_name>sc_cat_item_category_35a1f4c7476302107ef59d2f316d43a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-26 15:26:09</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1646603462</payload_hash>
+        <record_name>Can We Help You?.Request a new To Do Project</record_name>
+        <reverted_from/>
+        <source>3ff0c0ee47abc2107ef59d2f316d43fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 15:26:09</sys_created_on>
+        <sys_id>39a1f4c7476302107ef59d2f316d43aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190efa645ce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 15:26:09</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>79a1f4c7d06302107f408c24aefce1a9</update_guid>
+        <update_guid_history>79a1f4c7d06302107f408c24aefce1a9:-1646603462</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Request a new To Do Project">a2e17cc7476302107ef59d2f316d4373</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 15:27:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>25da3bb378b04340962d052593212400</sys_id>
+        <sys_metadata>35a1f4c7476302107ef59d2f316d43a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request a new To Do Project</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_scope_delete display_value="">228a5f1254334d0b975293b69fdc2551</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_35a1f4c7476302107ef59d2f316d43a6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_35a1f4c7476302107ef59d2f316d43a6">39a1f4c7476302107ef59d2f316d43aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 15:27:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

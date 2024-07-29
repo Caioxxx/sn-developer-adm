@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for To Do Workspace</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>to-do-workspace Search Profile</label>
+        <name>x_1002220_app_deve_tnfyrkc_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 16:43:56</sys_created_on>
+        <sys_id>01730d4f0fa30210a06c77860cb9947d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>to-do-workspace Search Profile</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>ais_search_profile_01730d4f0fa30210a06c77860cb9947d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-07-27 04:00:02</sys_updated_on>
+    </ais_search_profile>
+</record_update>

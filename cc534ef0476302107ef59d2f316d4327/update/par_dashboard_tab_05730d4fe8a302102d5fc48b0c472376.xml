@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="To Do Workspace">c9730d4f67a3021026dec2c846dce575</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 16:43:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>05730d4fe8a302102d5fc48b0c472376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>par_dashboard_tab_05730d4fe8a302102d5fc48b0c472376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 16:43:57</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>
