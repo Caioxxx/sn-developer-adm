@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="NeedIt Experience">7f20096947c012107ef59d2f316d43c4</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Home">56a58dad47c012107ef59d2f316d43b2</macroponent>
+        <macroponent_config/>
+        <name>Home</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Simple List">bef24de947c012107ef59d2f316d4390</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 21:34:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e6a58921470412107ef59d2f316d4303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>sys_ux_screen_e6a58921470412107ef59d2f316d4303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 21:34:05</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=e6a58921470412107ef59d2f316d4303"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App Developer">cc534ef0476302107ef59d2f316d4327</application>
+        <file_path/>
+        <instance_id>4891f8c11b42b5581024eb9b2d4bcb9a</instance_id>
+        <instance_name>dev191553</instance_name>
+        <name>sys_ux_screen_e6a58921470412107ef59d2f316d4303</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="NeedIt Experience">7f20096947c012107ef59d2f316d43c4</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Home">56a58dad47c012107ef59d2f316d43b2</macroponent><macroponent_config/><name>Home</name><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Simple List">bef24de947c012107ef59d2f316d4390</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-15 21:34:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e6a58921470412107ef59d2f316d4303</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Home</sys_name><sys_overrides/><sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package><sys_policy/><sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope><sys_update_name>sys_ux_screen_e6a58921470412107ef59d2f316d4303</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-15 21:34:05</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=e6a58921470412107ef59d2f316d4303"/></record_update>]]></payload>
+        <payload_hash>-1417408704</payload_hash>
+        <record_name>Home</record_name>
+        <reverted_from/>
+        <source>3ff0c0ee47abc2107ef59d2f316d43fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 21:34:05</sys_created_on>
+        <sys_id>eaa58921470412107ef59d2f316d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19157f64f2c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 21:34:05</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>eea589210a041210977028edfc1e1104</update_guid>
+        <update_guid_history>eea589210a041210977028edfc1e1104:-1417408704</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 21:15:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>189329e4e8f94cbca4d89fb647a26af1</sys_id>
+        <sys_metadata>e6a58921470412107ef59d2f316d4303</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_scope_delete display_value="">228a5f1254334d0b975293b69fdc2551</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_e6a58921470412107ef59d2f316d4303</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_e6a58921470412107ef59d2f316d4303">eaa58921470412107ef59d2f316d4305</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 21:15:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition/>
+        <da_relay_models/>
+        <data/>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout/>
+        <macroponent_dependencies/>
+        <name>Home</name>
+        <output_prop_mapping/>
+        <props>[
+    
+]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 21:34:05</sys_created_on>
+        <sys_id>56a58dad47c012107ef59d2f316d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>sys_ux_macroponent_56a58dad47c012107ef59d2f316d43b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 21:34:05</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="DELETE" query="documentkey=56a58dad47c012107ef59d2f316d43b2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App Developer">cc534ef0476302107ef59d2f316d4327</application>
+        <file_path/>
+        <instance_id>4891f8c11b42b5581024eb9b2d4bcb9a</instance_id>
+        <instance_name>dev191553</instance_name>
+        <name>sys_ux_macroponent_56a58dad47c012107ef59d2f316d43b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><bundles/><category>page</category><component_dependencies/><composition/><da_relay_models/><data/><description/><dispatched_events/><ext_controller_dep/><extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends><extension_point/><handled_events/><interactions/><interfaces/><internal_event_mappings/><layout/><macroponent_dependencies/><name>Home</name><output_prop_mapping/><props>[
+    
+]</props><required_translations>[ ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_properties/><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-15 21:34:05</sys_created_on><sys_id>56a58dad47c012107ef59d2f316d43b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Home</sys_name><sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package><sys_policy/><sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope><sys_update_name>sys_ux_macroponent_56a58dad47c012107ef59d2f316d43b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-15 21:34:05</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=56a58dad47c012107ef59d2f316d43b2"/></record_update>]]></payload>
+        <payload_hash>856738030</payload_hash>
+        <record_name>Home</record_name>
+        <reverted_from/>
+        <source>3ff0c0ee47abc2107ef59d2f316d43fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 21:34:05</sys_created_on>
+        <sys_id>a2a58dad47c012107ef59d2f316d43b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19157f64ef70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 21:34:05</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>a6a58dad5fc0121040c9a4299b0891b4</update_guid>
+        <update_guid_history>a6a58dad5fc0121040c9a4299b0891b4:856738030</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 21:15:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>978fc4a3d3b9426dbf563f09c1113511</sys_id>
+        <sys_metadata>56a58dad47c012107ef59d2f316d43b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_scope_delete display_value="">228a5f1254334d0b975293b69fdc2551</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_56a58dad47c012107ef59d2f316d43b2</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_56a58dad47c012107ef59d2f316d43b2">a2a58dad47c012107ef59d2f316d43b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 21:15:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

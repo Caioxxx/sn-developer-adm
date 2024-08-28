@@ -32,13 +32,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-19 21:36:36</sys_created_on>
         <sys_id>cc534ef0476302107ef59d2f316d4327</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-19 21:36:39</sys_updated_on>
+        <sys_updated_on>2024-08-06 14:24:36</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role/>
+        <user_role display_value="x_1002220_app_deve.user" name="x_1002220_app_deve.user">68f8ff5647abc2107ef59d2f316d43f8</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>

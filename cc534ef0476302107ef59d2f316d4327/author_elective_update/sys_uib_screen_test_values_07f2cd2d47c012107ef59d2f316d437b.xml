@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config/>
+        <screen display_value="Default">8bf24de947c012107ef59d2f316d4396</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 21:22:23</sys_created_on>
+        <sys_id>07f2cd2d47c012107ef59d2f316d437b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_07f2cd2d47c012107ef59d2f316d437b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 21:22:23</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App Developer">cc534ef0476302107ef59d2f316d4327</application>
+        <file_path/>
+        <instance_id>4891f8c11b42b5581024eb9b2d4bcb9a</instance_id>
+        <instance_name>dev191553</instance_name>
+        <name>sys_uib_screen_test_values_07f2cd2d47c012107ef59d2f316d437b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config/><screen display_value="Default">8bf24de947c012107ef59d2f316d4396</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-15 21:22:23</sys_created_on><sys_id>07f2cd2d47c012107ef59d2f316d437b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package><sys_policy/><sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope><sys_update_name>sys_uib_screen_test_values_07f2cd2d47c012107ef59d2f316d437b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-15 21:22:23</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>-507856450</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3ff0c0ee47abc2107ef59d2f316d43fe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 21:22:23</sys_created_on>
+        <sys_id>c3f2cd2d47c012107ef59d2f316d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19157eb971f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 21:22:23</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>87f2cd2d64c01210fa646bd9baa4d87c</update_guid>
+        <update_guid_history>87f2cd2d64c01210fa646bd9baa4d87c:-507856450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 21:33:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>32163f5e99404d54965547babfe00c04</sys_id>
+        <sys_metadata>07f2cd2d47c012107ef59d2f316d437b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="App Developer" source="x_1002220_app_deve">cc534ef0476302107ef59d2f316d4327</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App Developer">cc534ef0476302107ef59d2f316d4327</sys_scope>
+        <sys_scope_delete display_value="">228a5f1254334d0b975293b69fdc2551</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_07f2cd2d47c012107ef59d2f316d437b</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_07f2cd2d47c012107ef59d2f316d437b">c3f2cd2d47c012107ef59d2f316d437d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 21:33:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
